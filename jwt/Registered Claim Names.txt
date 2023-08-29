@@ -1,0 +1,8 @@
+Registered Claim Names
+The JWT specification defines some registered claim names and defines how they should be used. PyJWT supports these registered claim names:
+
+“exp” (Expiration Time) Claim
+“nbf” (Not Before Time) Claim
+“iss” (Issuer) Claim
+“aud” (Audience) Claim
+“iat” (Issued At) Claim
